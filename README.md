@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome to my GitHub Account
+### I am Junior Software Developer
+
+Visit my <a href="https://msichova.github.io" title="GitHub portfolio pages">portfolio pages at msichova.github.io</a>
+
+
+- 🔭 I’m currently working on projects as my portfolio, and BookShop.API - RESTful Web API, and BookShop.WebApplication - MVC ASP.NET Core Web App. To review <a href="https://github.com/msichova/BookShop" title="GitHu repository of Book Shop projects"> BookShop projects on GitHub please follow this link</a>.
+- 🌱 I’m currently learning Python and in plans to learn C++.
+- 💻 My current skills, experience: C#, Java, PHP, JavaScript, HTML, CSS, SQL, Microsoft SQL Server 2019, MariaDB, MongoDb, Redis, Azure Cache for Redis and a bit of SVG (beginer).
 
 <!--
 **msichova/msichova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
