@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Account
 ### I am Junior Software Developer
 
-Visit my <a href="https://marinadotnet.github.io" title="GitHub portfolio pages">portfolio pages at msichova.github.io</a>
+Visit my <a href="https://marinadotnet.github.io" title="GitHub portfolio pages">portfolio pages at marinadotnet.github.io</a>
 
 
 - 🔭 I’m currently working on projects as my portfolio, and BookShop.API - RESTful Web API, and BookShop.WebApplication - MVC ASP.NET Core Web App. To review <a href="https://github.com/msichova/BookShop" title="GitHu repository of Book Shop projects"> BookShop projects on GitHub please follow this link</a>.
